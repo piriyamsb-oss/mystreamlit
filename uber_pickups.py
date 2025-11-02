@@ -47,9 +47,13 @@ st.write("ggwp")
 st.write("### **ggwp**")
 st.markdown(
     """
-    <h1 style='text-align: center; font-weight: bold;'>ggwp</h1>
+    <h1 style='text-align: center; color: #FF5733; font-size: 48px; font-weight: bold;'>
+        ggwp
+    </h1>
     """,
     unsafe_allow_html=True
 )
+
+
 
 
