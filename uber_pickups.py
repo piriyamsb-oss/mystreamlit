@@ -43,3 +43,7 @@ filtered_data = data[data[DATE_COLUMN].dt.hour == hour_to_filter]
 st.subheader(f'Map of all pickups at {hour_to_filter}:00')
 st.map(filtered_data)
 st.write("ggwp")
+
+st.write("### **ggwp**")
+
+
